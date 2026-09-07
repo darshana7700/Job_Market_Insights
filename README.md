@@ -40,7 +40,7 @@ The dashboard helps understand:
 
 ## 📈 Dashboard
 The Excel dashboard provides an interactive visual summary of the analyzed job market data.
-![Job Market Insights](Dashboard.png)
+![Job Market Insights](Dashboard .png)
 
 ## 🔍 Conclusion
 This project demonstrates how Excel can be used for real-world data analysis, visualization, KPI tracking, and generating actionable insights from job market data.
